@@ -1,0 +1,42 @@
+h1{
+    color: palevioletred;
+}
+
+
+.Mheader{
+    border-style: double;
+    border-color: black;
+    background-color: purple;
+    display:flex;
+    justify-content: center;
+    font-style: inherits;
+}
+
+.header{
+    border-style: groove;
+    border-color: black;
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+}
+
+.Mintro{
+    text-align: center;
+   font-size: x-large;
+    font-style: oblique;
+}
+
+.intro{
+    text-align: center;
+    font-size: x-large;
+    font-style: oblique;
+    justify-content: space-between;
+}
+
+.links{
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+}
+
